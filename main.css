@@ -5,6 +5,13 @@ body {
 	
 }
 
+nav a {
+	font-weight:; 800px;
+	padding: 15px 10px;
+	color: red;
+
+
+}
 li {
 	text-align: left;
 	font-size: 25px;
@@ -35,9 +42,5 @@ img {
 
 p {
   font-size: 25px;
-}
-
-ul {
-  text-decoration: none;
 }
 
