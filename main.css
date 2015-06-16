@@ -5,7 +5,7 @@ body {
 	
 }
 
-.header {
+.main-header {
   background: cover;
 
 }
@@ -50,11 +50,6 @@ img {
   
  
 
-
-h3 {
-  color: red;
-  font-size: 50px;
-}
 
 
 
