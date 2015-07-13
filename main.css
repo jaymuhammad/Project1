@@ -9,23 +9,20 @@ body {
 	background-color: #70bf53;
 	text-align: center;
 	margin: 0;
+  font-family: Helvetica, Arial, sans-serif;
 }
 
 h1 {
   font-size: 100px;
   color: white;
   text-shadow: 5px 8px 10px #222;
-
- {
-  max-width: 100%;
-  max-height: 100%;
-  margin-bottom: 20px;
-  border-radius: 10px;
-  }
 }
 
+ 
+  
+
 h2 {
-  color: red;
+  color: #f03;
 
 }
 
@@ -50,7 +47,7 @@ li {
 
 p {
   font-size: 50px;
-  color: red;
+  color: #f03;
 }
 
 img {
@@ -58,17 +55,35 @@ img {
   margin-bottom: 20px;
   border-radius: 10px;
 
-  
 }
 
 
 .primary-content {
-  color: #00f;
+  color: white;
   font-size: 30px;
   padding: 5px 5px;
   margin: 5%;
   margin-top: 75px;  
+}
+
+.t-border {
+  border-top: 2px solid #0000ff;
 
 }
 
+#main-footer {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  border-bottom: solid 15px #0000ff;
+}
+
+a:hover {
+  color: #0000ff;
+
+}
+
+a:focus {
+  color: white;
+  background-color: #f03;
+}
 
