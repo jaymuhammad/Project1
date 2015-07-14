@@ -31,18 +31,17 @@ h2 {
 nav a {
   font-weight:; 800px;
   padding: 15px 10px;
-  color: brown;
   text-shadow: 5px 8px 10px #222;
   text-decoration: none;
-}
-
-li {
 	text-align: left;
 	font-size: 35px;
-	color: red;
-  display: inline-block;
+	color: #f03;
+  }
 
+li {
+  display: inline-block;
 }
+
 
 
 p {
@@ -52,9 +51,14 @@ p {
 
 img {
   max-width: 100%;
-  margin-bottom: 20px;
-  border-radius: 10px;
+  margin-bottom: 30px;
 
+}
+
+#main-image {
+ max-width: 100%;
+  margin-bottom: 40px;
+  border-radius: 10px; 
 }
 
 
@@ -63,13 +67,16 @@ img {
   font-size: 30px;
   padding: 5px 5px;
   margin: 5%;
-  margin-top: 75px;  
+  margin-top: 75px;
+
 }
 
 .t-border {
   border-top: 2px solid #0000ff;
 
 }
+
+
 
 #main-footer {
   padding-top: 60px;
@@ -87,3 +94,6 @@ a:focus {
   background-color: #f03;
 }
 
+#donate{
+  box-sizing: border-box;
+}
