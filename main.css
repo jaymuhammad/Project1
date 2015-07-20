@@ -1,0 +1,142 @@
+
+* {
+  margin: 0;
+  padding: 0;
+
+}
+
+body {
+	background-color: #70bf53;
+	text-align: center;
+	margin: 0;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+label {
+  padding: 20px;
+
+}
+
+fieldset {
+  border: 1px solid #c0c0c0;
+  margin: 0 2px;
+  padding: 0.35em 0.625em 0.75em;
+}
+
+
+h1 {
+  font-size: 6.25em;
+  color: white;
+  text-shadow: 5px 8px 10px #222;
+
+}
+
+ 
+  
+
+h2 {
+  color: red;
+  font-weight: bold;
+
+}
+
+
+
+
+
+
+p {
+  font-size: 50px;
+  color: #f03;
+  padding-bottom: none;
+}
+
+img {
+  max-width: 100%;
+  margin-bottom: 30px;
+  margin-top: 0;
+
+}
+
+#secondary-image {
+  
+ 
+}
+
+#main-image {
+ max-width: 100%;
+  margin-bottom: 40px;
+  margin-top: 15px;
+  border-radius: 10px;
+
+}
+
+
+.primary-content {
+  color: white;
+  font-size: 35px;
+  padding: 5px 5px;
+  margin: 5%;
+  margin-top: 75px;
+
+}
+
+.t-border {
+  border-top: 2px solid #0000ff;
+
+}
+
+.main-header {
+  background-image: url("C:\Users\User\Documents\GitHub\New folder\lunchproject.jpg");
+  background-size: 40%;
+}
+
+#main-footer {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  border-bottom: solid 15px #0000ff;
+}
+
+a:hover {
+  color: #0000ff;
+
+}
+
+a:focus {
+  color: white;
+  background-color: #f03;
+}
+
+#donate {
+  box-sizing: border-box;
+}
+
+form {
+  max-width: 300px;
+  margin: 10px auto;
+  padding: 10px 20px;
+  background: #f4f7f8;
+  border-radius: 8px;
+}
+
+input[type="radio"],
+input[type="checkbox"] {
+  margin: 0 4px 8px 0;
+}
+
+button {
+  padding: 19px 39px 18px 39px;
+  color: #FFF;
+  background-color: #f03;
+  font-size: 18px;
+  text-align: center;
+  font-style: normal;
+  border-radius: 5px;
+  width: 100%;
+  border: 1px solid;
+  border-width: 1px 1px 3px;
+  box-shadow: 0 -1px 0 rgba(255,255,255,0.1) inset;
+  margin-bottom: 10px;
+
+
+
