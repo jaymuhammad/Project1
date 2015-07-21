@@ -37,6 +37,7 @@ h1 {
 h2 {
   color: red;
   font-weight: bold;
+  font-family: 'Montserrat', sans-serif;
 
 }
 
@@ -46,7 +47,8 @@ h2 {
 
 
 p {
-  font-size: 50px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3.125em;
   color: #f03;
   padding-bottom: none;
 }
@@ -59,6 +61,7 @@ img {
 }
 
 #secondary-image {
+  padding-right: 50px;
   
  
 }
@@ -73,8 +76,9 @@ img {
 
 
 .primary-content {
+  font-family: 'Montserrat', sans-serif;
   color: white;
-  font-size: 35px;
+  font-size: 2.1875em;
   padding: 5px 5px;
   margin: 5%;
   margin-top: 75px;
@@ -87,9 +91,20 @@ img {
 }
 
 .main-header {
-  background-image: url("C:\Users\User\Documents\GitHub\New folder\lunchproject.jpg");
+  background-image: url("C:\Users\User\Pictures\images\New folder\mainphoto.jpg");
   background-size: 40%;
 }
+.social-icon {
+  padding-left: 100px;
+  
+}
+
+.facebook {
+  float: left;
+  padding-top: 100px;
+  padding-left: 150px;
+}
+
 
 #main-footer {
   padding-top: 60px;
@@ -137,6 +152,5 @@ button {
   border-width: 1px 1px 3px;
   box-shadow: 0 -1px 0 rgba(255,255,255,0.1) inset;
   margin-bottom: 10px;
-
 
 
