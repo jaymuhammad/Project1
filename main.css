@@ -12,6 +12,12 @@ body {
   font-family: Helvetica, Arial, sans-serif;
 }
 
+#main {
+  background-color: white;
+
+}
+
+
 label {
   padding: 20px;
 
@@ -26,7 +32,6 @@ fieldset {
 
 h1 {
   font-size: 6.25em;
-  color: white;
   text-shadow: 5px 8px 10px #222;
 
 }
